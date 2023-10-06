@@ -2,6 +2,8 @@
 
 ## A 'The Odin Project', project.
 
+Check it out [here](https://revness.github.io/tictactoe/)
+
 ### Introduction
 
 We’re making a Tic Tac Toe game you can play in your browser!
